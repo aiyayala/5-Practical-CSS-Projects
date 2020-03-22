@@ -11,6 +11,9 @@
 
 [Layoutit!](https://grid.layoutit.com/)
 
+## Other
+### [HTML5 TAGS](https://www.tutorialrepublic.com/html-reference/html5-tags.php)
+
 ## CSS Grid Layout: 5 Practical Projects 
 by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig Buckler
 
