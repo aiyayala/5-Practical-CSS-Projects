@@ -26,6 +26,6 @@ by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig B
 
 (Grid by Example (TEMPLATE))[https://gridbyexample.com/examples/]
 
-### [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+#### [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
 
 [Layoutit!](https://grid.layoutit.com/)
