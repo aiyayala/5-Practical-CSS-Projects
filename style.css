@@ -1,0 +1,33 @@
+/*common styles*/
+/* include the padding and border in an element's total width and height.*/
+* {
+  box-sizing: border-box;
+}
+
+/* prevents overflow & no scroll bar */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*CSS grid*/
+div {
+  display: inline;        /* Default of all elements, unless UA stylesheet overrides */
+  display: inline-block;  /* Characteristics of block, but sits on a line */
+  display: block;         /* UA stylesheet makes things like <div> and <section> block */
+  display: run-in;        /* Not particularly well supported or common */
+  display: none;          /* Hide */
+}
+/*tricky usfully but dont rely on this*/
+#table{ 
+    display: table; 
+}
+.tr{ 
+    display: table-row; 
+}
+.td{ 
+    display: table-cell; }
+    
+    
+    
