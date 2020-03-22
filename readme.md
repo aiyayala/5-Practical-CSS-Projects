@@ -6,3 +6,5 @@ by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig B
 [SP: Multi-Column Layout With Floats](https://codepen.io/SitePoint/pen/oMRjda/) 
 
 [Grid Layout](https://codepen.io/SitePoint/pen/JBqgGm/)
+
+[Using the Grid grid-column (fallback)](https://codepen.io/SitePoint/pen/OweYNp)
