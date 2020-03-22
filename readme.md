@@ -21,7 +21,11 @@ by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig B
 ## Grid USEFUL tools and resources:
 
 [MDN Grid Layout (like a bootstrap)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
 (A Complete Guide to Grid)[https://css-tricks.com/snippets/css/complete-guide-grid/]
+
 (Grid by Example (TEMPLATE))[https://gridbyexample.com/examples/]
+
 ### [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+
 [Layoutit!](https://grid.layoutit.com/)
