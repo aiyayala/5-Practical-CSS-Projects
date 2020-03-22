@@ -24,8 +24,8 @@ by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig B
 
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-[Grid by Example (TEMPLATE)](https://gridbyexample.com/examples/)
-
 #### [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+
+[Grid by Example (TEMPLATE)](https://gridbyexample.com/examples/)
 
 [Layoutit!](https://grid.layoutit.com/)
