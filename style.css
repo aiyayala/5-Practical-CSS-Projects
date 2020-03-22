@@ -28,6 +28,14 @@ div {
 }
 .td{ 
     display: table-cell; }
+
+/*justify-content centers the columns when there is available space left inside the grid container. 
+This happens when the container bleeds from one viewport edge to the other. 
+The lateral auto margins centers the .grid container itself when it has reached its maximum width.*/
+.grid {
+  justify-content: center;
+  margin: 40px auto;
+}
     
     
     
