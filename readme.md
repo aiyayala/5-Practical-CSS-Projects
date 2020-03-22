@@ -1,4 +1,16 @@
 
+## Grid USEFUL tools and resources:
+
+[MDN Grid Layout (like a bootstrap)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
+[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+#### [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+
+[Grid by Example (TEMPLATE)](https://gridbyexample.com/examples/)
+
+[Layoutit!](https://grid.layoutit.com/)
+
 ## CSS Grid Layout: 5 Practical Projects 
 by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig Buckler
 
@@ -18,14 +30,4 @@ by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig B
 [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
 
 
-## Grid USEFUL tools and resources:
 
-[MDN Grid Layout (like a bootstrap)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-
-[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
-#### [Grid “fallbacks” and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
-
-[Grid by Example (TEMPLATE)](https://gridbyexample.com/examples/)
-
-[Layoutit!](https://grid.layoutit.com/)
