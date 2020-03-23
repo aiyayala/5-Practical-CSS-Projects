@@ -17,7 +17,12 @@
 [Free Logo Maker](https://logomakr.com/) 
 
 [Gradient](https://mycolor.space/gradient) 
+
 [Gradient 2](https://cssgradient.io/) 
+
+[Free image](https://unsplash.com/)
+
+[Free icons (my favorite)](https://www.flaticon.com/)
 
 ## CSS Grid Layout: 5 Practical Projects 
 by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig Buckler
