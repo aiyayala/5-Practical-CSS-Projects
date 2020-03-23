@@ -24,6 +24,9 @@
 
 [Free icons (my favorite)](https://www.flaticon.com/)
 
+[Single loading element](https://projects.lukehaas.me/css-loaders/) 
+
+
 ## CSS Grid Layout: 5 Practical Projects 
 by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig Buckler
 
