@@ -26,6 +26,7 @@
 
 [Single loading element](https://projects.lukehaas.me/css-loaders/) 
 
+[Bootstrap effects](https://mdbootstrap.com/docs/jquery/css/skins/)
 
 ## CSS Grid Layout: 5 Practical Projects 
 by Diego Souza, Ahmed Bouchefra, Giulio Mainardi, Ilya Bodrov-Krukowski, Craig Buckler
