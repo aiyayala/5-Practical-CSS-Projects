@@ -1,4 +1,6 @@
-/*common styles*/
+/* ----------------------------------------------------
+    Common Styles
+----------------------------------------------------- */   
 /* include the padding and border in an element's total width and height.*/
 * {
   box-sizing: border-box;
@@ -37,7 +39,5 @@ The lateral auto margins centers the .grid container itself when it has reached 
   margin: 40px auto;
 }
     
- /* ----------------------------------------------------
-    MEDIAQUERIES
------------------------------------------------------ */   
+
     
